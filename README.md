@@ -3,6 +3,12 @@
 This extension allows you to add a query parameter to static files (js and css).
 This is especially useful to force browser reloading files and to update your website design.
 
+## This version
+
+This version includes composer support for automatic installation in Magento. 
+It also includes chuangbo/magento-suffix-static-files/patch-1 for support of non default media/skin/js urls, important when using a CDN or other host for these files. 
+
+
 ## Installation
 
 ### Magento CE 1.6.x, 1.7.x, 1.8.x
