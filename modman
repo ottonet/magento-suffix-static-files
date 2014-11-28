@@ -1,0 +1,8 @@
+app/code/community/Bubble/Queryfier/Block/Adminhtml/System/Config/Fieldset/Hint.php app/code/community/Bubble/Queryfier/Block/Adminhtml/System/Config/Fieldset/Hint.php
+app/code/community/Bubble/Queryfier/Block/Page/Html/Head.php app/code/community/Bubble/Queryfier/Block/Page/Html/Head.php
+app/code/community/Bubble/Queryfier/etc/adminhtml.xml app/code/community/Bubble/Queryfier/etc/adminhtml.xml
+app/code/community/Bubble/Queryfier/etc/config.xml app/code/community/Bubble/Queryfier/etc/config.xml
+app/code/community/Bubble/Queryfier/etc/system.xml app/code/community/Bubble/Queryfier/etc/system.xml
+app/code/community/Bubble/Queryfier/Helper/Data.php app/code/community/Bubble/Queryfier/Helper/Data.php
+app/design/adminhtml/base/default/template/bubble/queryfier/system/config/fieldset/hint.phtml app/design/adminhtml/base/default/template/bubble/queryfier/system/config/fieldset/hint.phtml
+app/etc/modules/Bubble_Queryfier.xml app/etc/modules/Bubble_Queryfier.xml
